@@ -1,7 +1,7 @@
-torch
-torchsde
-torchvision
-torchaudio
+torch==2.0.1
+torchsde==0.2.6
+torchvision==0.15.2
+torchaudio==2.0.2
 einops
 transformers>=4.25.1
 safetensors>=0.4.2
